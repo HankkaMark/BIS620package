@@ -1,4 +1,3 @@
-
 #' Plot UKBiobank Accelerometry Data
 #' This function plots UKBiobank accelerometry data.
 #' @param x an object inherited from data.frame. It is
@@ -11,6 +10,7 @@
 #' data(ukb_accel)
 #' accel_plot(ukb_accel[1:1000,])
 #' @export
+
 accel_plot <- function(x) {
   if ("time" %in% colnames(x)) {
     col <- as.symbol("time")
