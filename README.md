@@ -35,7 +35,7 @@ data(ukb_accel)
 p <-  accel_plot(ukb_accel[1:100, ])
 p
 ```
-
+<img src="man/figures/Rplot.jpeg" width="100%" />
 
 You can also embed plots, for example:
 
