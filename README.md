@@ -12,7 +12,9 @@
 coverage](https://codecov.io/gh/HankkaMark/BIS620package/branch/master/graph/badge.svg)](https://app.codecov.io/gh/HankkaMark/BIS620package?branch=master)
 <!-- badges: end -->
 
-The goal of bis620.2022 is to plot accelerometry data for "ukb_accel" dataset or any dataset with freqence or time and 3 coordinates (XYZ). It can do both acceleremetry plot and spectral signature plots. It can also print Hello according to your input (probably your name). That's a lovely function to play with if you have no idea what accelerometry data is. Data set "ukb_accel" is already embedded and you can see example below.
+The goal of bis620.2022 is to plot accelerometry data for "ukb_accel" dataset or any dataset with freqence or time and 3 coordinates (XYZ). It can do both acceleremetry plot and spectral signature plots. 
+It can also print Hello according to your input (probably your name). That's a lovely function to play with if you have no idea what accelerometry data is. 
+Data set "ukb_accel" is already embedded and you can see example of how to use this package below.
 
 ## Installation
 
